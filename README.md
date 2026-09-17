@@ -1,6 +1,6 @@
 # ReadMe # 
 
-This is a package using Dijkstra's algorithm. It is pip installable.
+This is a package using Dijkstra's shortest path algorithm. It is pip installable.
 
 ## Project Structure ## 
 
@@ -12,7 +12,7 @@ src
     
     heapq.py
     
-    sp.py (Dijkstra function)
+    sp.py (Dijkstra algorithm function)
     
 README.md
 
