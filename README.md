@@ -1,6 +1,6 @@
 # ReadMe # 
 
-This is a package using Dijkstra's shortest path algorithm. It is pip installable.
+This is a package using Dijkstra's shortest path algorithm. It is installable using pip.
 
 ## Project Structure ## 
 
